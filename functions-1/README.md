@@ -6,7 +6,7 @@ description: >-
 
 # Functions and formulas
 
-### Overview2
+### Overview
 
 You use functions by writing formula in line items. The **Formula editor** is always visible when you're working in a model.
 
